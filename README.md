@@ -35,11 +35,8 @@ An Information Systems student who bridges the gap between clean code and impact
 ---
 
 ### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=padlleee&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padlleee&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=padlleee&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padlleee&layout=compact&theme=radical)
 
 ---
 
